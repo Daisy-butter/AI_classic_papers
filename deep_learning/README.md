@@ -1,0 +1,1 @@
+This folder contains a curated collection of classic and influential papers in Deep Learning. These papers cover the foundational breakthroughs, key algorithms, and state-of-the-art methods that have significantly shaped the field of AI and deep learning.
